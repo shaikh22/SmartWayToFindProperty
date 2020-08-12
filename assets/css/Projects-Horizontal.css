@@ -1,0 +1,160 @@
+.projects-horizontal {
+  color: #313437;
+  background-color: #fff;
+}
+
+.projects-horizontal p {
+  color: #7d8285;
+}
+
+.projects-horizontal h2 {
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  color: inherit;
+}
+
+@media (max-width:767px) {
+  .projects-horizontal h2 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
+
+.projects-horizontal .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto 10px;
+}
+
+.projects-horizontal .projects {
+  padding-bottom: 40px;
+}
+
+.projects-horizontal .item {
+  padding-top: 60px;
+  min-height: 160px;
+}
+
+@media (max-width:767px) {
+  .projects-horizontal .item {
+    padding-top: 40px;
+    min-height: 160px;
+  }
+}
+
+.projects-horizontal .item .name {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  color: inherit;
+}
+
+@media (max-width:991px) {
+  .projects-horizontal .item .name {
+    margin-top: 22px;
+  }
+}
+
+.projects-horizontal .item .description {
+  font-size: 15px;
+  margin-bottom: 0;
+}
+
+#hdng {
+  text-align: center;
+  padding: 0px;
+  background: 2.jpg;
+}
+
+#hdg {
+  text-align: center;
+  padding: 40px;
+  background: url(../../assets/img/2.jpg);
+  background-size: cover;
+}
+
+#hdg .jumbotron {
+  border-radius: 10px;
+  padding: 30px;
+  background-color: rgba(193,171,171,0.63);
+}
+
+#nhdg {
+  text-align: center;
+  padding: 20px;
+}
+
+#para {
+  text-align: center;
+}
+
+#para1 {
+  text-align: center;
+  color: orange;
+  font-size: medium;
+}
+
+#hdg1 {
+  text-align: center;
+  color: rgba(0,0,0,0.87);
+}
+
+#hd1 {
+  text-align: center;
+  color: orange;
+}
+
+#pr1 {
+  text-align: center;
+  padding-left: 0px;
+}
+
+#logo1 {
+  font-size: 60px;
+  padding-left: 90px;
+  color: #b86d6d;
+}
+
+#logo2 {
+  font-size: 60px;
+  color: rgb(183,116,116);
+  padding-left: 60px;
+}
+
+#hd2 {
+  padding-left: 30px;
+  color: orange;
+}
+
+#pr2 {
+  padding-left: 20px;
+}
+
+#lg1 {
+  font-size: 300%;
+  color: orange;
+}
+
+#lg2 {
+  font-size: 300%;
+  color: orange;
+}
+
+#lg3 {
+  font-size: 300%;
+  color: orange;
+}
+
+.newimg {
+  max-width: 100%;
+  height: auto;
+}
+
+.img-fluid newimg3 {
+  max-width: 100%;
+  height: auto;
+}
+
